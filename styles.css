@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.myTable{
+    width: 50%;
+}
+
+#total{
+    text-align: right;
+    font-weight: bold;
+}
